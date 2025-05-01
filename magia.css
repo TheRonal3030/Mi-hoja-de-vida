@@ -1,0 +1,108 @@
+body {
+    background-color: #aee1d3;
+    overflow-x: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.foto {
+    background-attachment: scroll;
+    height: 270px;
+    width: 300px;
+    border-style: inset;
+    border-color: black;
+    display: inline;
+}
+
+.fdo {
+    background-color: #e1ecd6;
+    margin: 30px;
+    border-radius: 10px;
+    text-align: center;
+    border: 10px solid #49cccc;
+
+}
+
+
+h1 {
+    background-color: #16c1c8;
+    border-radius: 20px;
+    font-size: medium;
+    text-align: center;
+    margin: 0px;
+}
+
+p {
+    padding: 10px;
+    margin: 15px;
+    background-color: #e1ecd6;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.listuno {
+    list-style-type: none;
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+    background-color: #e1ecd6;
+    border-radius: 20px;
+
+
+}
+
+.listdos {
+    list-style-type: none;
+    padding: 5px;
+    margin: 15px;
+    text-align: center;
+    background-color: #e1ecd6;
+    border-radius: 20px;
+}
+
+
+.tablae {
+    width: 16%;
+    position: relative;
+    padding: 10px;
+    right: 0px;
+    margin: 15px;
+    left: 41%;
+    background-color: #e1ecd6;
+    border-radius: 20px;
+    inline-size: auto 200px;
+}
+
+
+
+table,
+th,
+td {
+    background-color: #e6f8b1;
+    border: 1px solid black;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.formoo {
+    width: 13%;
+    position: relative;
+    padding: 10px;
+    right: 0px;
+    margin: 15px;
+    left: 42%;
+    list-style-type: none;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #e1ecd6;
+}
+
+.boton {
+    position: relative;
+    bottom: 15px;
+    margin: 5px;
+    left: 48%;
+    border-color: #16c1c8;
+    border: #16c1c8 solid 4px;
+    border-radius: 20px;
+}
